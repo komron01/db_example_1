@@ -6,11 +6,11 @@ create table testdata (
 	gender VARCHAR(50),
 	ip_address VARCHAR(20)
 );
-insert into testdata (id, first_name, last_name, email, gender, ip_address) values (1, 'Carleton', 'Cully', 'ccully0@blog.com', 'Male', '8.152.187.39');
+insert into testdata (id, first_name, last_name, email, gender, ip_address) values (1, 'Karleton', 'Cully', 'ccully0@blog.com', 'Male', '8.152.187.39');
 insert into testdata (id, first_name, last_name, email, gender, ip_address) values (2, 'Kacey', 'Loudiane', 'kloudiane1@census.gov', 'Female', '6.145.196.198');
 insert into testdata (id, first_name, last_name, email, gender, ip_address) values (3, 'Wendall', 'Ambrosio', 'wambrosio2@jigsy.com', 'Male', '216.103.228.169');
 insert into testdata (id, first_name, last_name, email, gender, ip_address) values (4, 'Andree', 'Davydkov', 'adavydkov3@economist.com', 'Female', '198.37.245.17');
-insert into testdata (id, first_name, last_name, email, gender, ip_address) values (5, 'Ab', 'Elcocks', 'aelcocks4@bloglovin.com', 'Male', '248.25.135.7');
+insert into testdata (id, first_name, last_name, email, gender, ip_address) values (5, 'Aboba', 'Elcocks', 'aelcocks4@bloglovin.com', 'Male', '248.25.135.7');
 insert into testdata (id, first_name, last_name, email, gender, ip_address) values (6, 'Fannie', 'Cudworth', 'fcudworth5@hatena.ne.jp', 'Female', '175.248.253.12');
 insert into testdata (id, first_name, last_name, email, gender, ip_address) values (7, 'Jenny', 'Cliffe', 'jcliffe6@people.com.cn', 'Female', '250.58.198.104');
 insert into testdata (id, first_name, last_name, email, gender, ip_address) values (8, 'Torry', 'Degoe', 'tdegoe7@infoseek.co.jp', 'Bigender', '11.47.242.180');
